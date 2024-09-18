@@ -1,0 +1,13 @@
+{
+  "name": "Title Picker",
+  "description": "Pick up and display the title of current tab",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "hello_extensions.png"
+  },
+  "permissions":[
+    "activeTab"
+  ]
+}

@@ -1,0 +1,13 @@
+body{
+    width:200px;
+}
+
+.btn{
+    background-color: white;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: black;
+    color: white;
+}
